@@ -62,7 +62,7 @@ int main()
     printf("%d\n", five);
     printf("%d\n", six);
     printf("%d\n", sum);
-    printf("%1.f\n", sum / 100);
+    printf("%.1f\n", sum / 100);
 
     return 0;
 }
